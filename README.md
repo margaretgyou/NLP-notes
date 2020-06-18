@@ -1,4 +1,4 @@
 # nlp
-Just me learning & experimenting with NLP
+Just learning & experimenting with NLP
 
-Packages: NLTK, sklearn, numpy, panda
+Packages: Tensorflow, NLTK, sklearn, numpy, panda
